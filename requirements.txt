@@ -1,0 +1,6 @@
+paramiko
+jsonify
+pysnow
+configparser
+pyvmomi
+termcolor

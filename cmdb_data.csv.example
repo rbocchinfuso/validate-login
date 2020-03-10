@@ -1,0 +1,5 @@
+sys_id,ip,username,password,primary_access,secondary_access
+000000001,host1,testuser,password,SSH,HTTP
+000000002,host2,testuser,password,HTTP,SSH
+000000003,host3,testuser,password,SSH,HTTP
+000000004,host4,testuser,password,RDP,HTTP

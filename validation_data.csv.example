@@ -1,0 +1,4 @@
+host,user,status
+host1,testuser,success
+host2,testuser,success
+host3,testuser,Authentication failed.

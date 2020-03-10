@@ -1,0 +1,23 @@
+[local]
+test_input = test_input.csv
+test_output = test_output.csv
+input = input.csv
+output = output.csv
+
+[api_auth]
+snow_instance = instance
+api_user = user
+api_password = password
+api_key = Basic xxx111YYY222zzz
+
+[tables]
+switch = cmdb_ci_switch
+vmware = cmdb_ci_vm_vmware
+
+[fields]
+sys_id = sys_id
+ip = ip_address
+username = u_username
+primary_access = u_primary_access_method
+secondary_access = u_secondary_access_method
+
